@@ -1,0 +1,42 @@
+{
+  "_from": "utils-project",
+  "_id": "utils-project@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-ZzV6D7ahB2Eqpcfg8uW/6G5Pu+RskhVUp6ANQLsndZCMvmWHJbABlyCbpFH8H+jJFQKrR4+XwZho9cW/iiVkGg==",
+  "_location": "/utils-project",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "utils-project",
+    "name": "utils-project",
+    "escapedName": "utils-project",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/utils-project/-/utils-project-1.0.0.tgz",
+  "_shasum": "e916dfb63d96e02cb37ce2bd19dce2ec7483ea38",
+  "_spec": "utils-project",
+  "_where": "D:\\work\\project\\npm",
+  "author": {
+    "name": "liyuan"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "this is a library of tools",
+  "keywords": [
+    "utils"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "utils-project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
